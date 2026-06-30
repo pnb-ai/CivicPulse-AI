@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "Futuristic AI-powered civic engagement and real-time smart city platform enabling citizen-government collaboration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
